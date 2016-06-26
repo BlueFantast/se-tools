@@ -3,7 +3,7 @@
 + 绝大多数软件对个人免费。一部分对学生免费，请准备好你的edu邮箱。
 + 收费软件均提供序列号或破解补丁，仅供个人目的使用。请大家在自己能力范围内尽量支持正版。
 
-## 7-zip
+## 7-Zip
 
 免费开源的文件压缩工具。
 
@@ -31,7 +31,7 @@
 [破解补丁](bin/acrobat_dc_amtlib.zip)
 -->
 
-## android studio
+## Android Studio
 
 谷歌基于intelij开发的安卓开发工具。
 
@@ -44,13 +44,13 @@
 
 [官方下载](http://www.android-studio.org/)
 
-## apache
+## Apache
 
 世界使用排名第一的Web服务器软件，可以运行在几乎所有广泛使用的计算机平台上。
 
 [官方下载](http://www.apachehaus.com/cgi-bin/download.plx)
 
-## atom ##
+## Atom ##
 
 Github出品的代码编辑器，原生支持Markdown。
 
@@ -71,25 +71,25 @@ Github出品的代码编辑器，原生支持Markdown。
 [下载地址](http://www.newasp.net/soft/81224.html)
 -->
 
-## code::blocks
+## Code::Blocks
 
 非常好用的开源C/C++ IDE，与mingw搭配使用。替代vc6.0的免费解决方案。
 
 [官方下载](http://www.codeblocks.org/downloads/26)
 
-## feeddemon
+## Feeddemon
 
 RSS聚合新闻阅读器。由于正规的Blog站点都提供RSS文件,因而您可以方便的在桌面快速浏览RSS的世界而不需要访问上百个网站。新版本无需注册即可永久免费使用。
 
 [官方下载](http://www.feeddemon.com/)
 
-## fiddler2
+## Fiddler2
 
 免费开源的http协议封包抓取和分析软件。
 
 [官方下载](http://www.telerik.com/download/fiddler)
 
-## filezilla
+## Filezilla
 
 开源免费的ftp管理软件。可能是当前windows上最好用的ftp管理软件。
 
@@ -101,7 +101,7 @@ RSS聚合新闻阅读器。由于正规的Blog站点都提供RSS文件,因而您
 
 [官方下载](http://git-scm.com/download/)
 
-## idea intelij
+## IDEA Intelij
 
 公认最好用的java IDE，Community版免费。
 
@@ -113,19 +113,19 @@ Java 语言的软件开发工具包。包含java编译器、虚拟机、类库�
 
 [官方下载](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
-## mysql
+## MySQL
 
 最流行的关系型数据库管理系统，由瑞典MySQL AB公司开发，目前属于Oracle公司。
 
 [官方下载](http://dev.mysql.com/downloads/)
 
-## mysql workbench
+## MySQL Workbench
 
 mysql官方出品的图形化管理工具。
 
 [官方下载](http://dev.mysql.com/downloads/workbench/)
 
-## .net framework
+## .NET Framework
 
 .net运行环境，包括.net虚拟机和类库等。
 
@@ -133,13 +133,13 @@ mysql官方出品的图形化管理工具。
 
 [下载地址(4.0)](http://www.crsky.com/soft/6959.html)
 
-## netbeans
+## NetBeans
 
 支持Java、PHP、C/C++开发的IDE，oracle（以前是sun）出品。比eclipse好用一万倍。
 
 [官方下载](http://www.netbeans.org.cn/downloads/index.html)
 
-## notepad++
+## Notepad++
 
 免费开源、小型轻量化的文本编辑器，支持多种编码转换。可能是windows上最好用的编辑器。
 
@@ -185,31 +185,49 @@ mysql官方出品的图形化管理工具。
 [下载地址](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
 -->
 
-## php
+## PHP
 
 PHP（PHP: Hypertext Preprocessor，超文本预处理器）是一种通用开源脚本语言。语法吸收了C语言、Java和Perl的特点，利于学习，使用广泛，主要适用于Web开发领域。
 
 [官方下载](http://php.net/downloads.php)
 
-## prezi
+## PHPMyAdmin
+
+使用PHP编写的、基于Web的MySQL数据库管理工具。
+
+[官方下载](http://www.phpmyadmin.net/downloads/)
+
+## Prezi
 
 云端的演示文稿制作软件,采用故事板（storyboard）格式让演示者可以缩放图片，通过快捷的动画演示关键点。免费版本（edu enjoy）需要edu邮箱。
 
 [官方下载](http://prezi.com/pricing/edu/)
 
-## python
+## Python
 
 一种面向对象的脚本式编程语言。
 
 [官方下载](https://www.python.org/downloads/)
 
-## qt
+## QT
 
 跨平台的C++ GUI库。带有一个名为qt creator的IDE。替代MFC的最佳选择。
 
 [官方下载](http://www.qt.io/download/)
 
-## sqlite
+## R
+
+另一个用于统计学、数据分析和可视化的语言。
+
+[官方下载](https://cran.r-project.org/mirrors.html)
+
+## R Studio
+
+R语言的IDE，社区版免费。
+
+[官方下载](https://www.rstudio.com/products/RStudio/)
+
+## SQLite
 
 小型轻量化的文件式数据库，支持主流操作系统，为很多语言提供API。
 
@@ -227,39 +245,39 @@ Markdown在线编辑器，支持各种扩展语法。
 
 [官方下载](https://sourceforge.net/projects/staruml/)
 
-## ubuntu
+## Ubuntu
 
 linux发行版之一，界面友好，易于入门。
 
 [官方下载](http://ubuntu-china.cn/download)
 
-## visual studio
+## Visual Studio
 
 windows上最好用的IDE，用于开发C/C++、C#、VB以及其它。
 
-### vs2013 Community
+### VS2013 Community
 
 [官方下载](http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso)
 
-## vmware player
+## Vmware Player
 
 虚拟机软件，支持Windows 8.1、平板电脑传感器和即将过期的虚拟机。
 
 [官方下载](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 
-## wireshark
+## Wireshark
 
 网络封包分析软件,原名Ethereal。
 
 [官方下载](https://www.wireshark.org/download.html)
 
-## wps
+## WPS
 
 国产的文档表格和幻灯片制作工具，对个人免费。
 
 [官方下载](http://www.wps.cn/product/download/)
 
-## zeal
+## Zeal
 
 开源的API文档浏览工具，支持dash的所有文档（docset格式）。
 
