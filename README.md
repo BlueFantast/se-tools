@@ -1,35 +1,10 @@
 # 软件工程 – 专业所需工具 #
 
-+ 绝大多数软件对个人免费。一部分对学生免费，请准备好你的edu邮箱。
-+ 收费软件均提供序列号或破解补丁，仅供个人目的使用。请大家在自己能力范围内尽量支持正版。
-
 ## 7-Zip
 
 免费开源的文件压缩工具。
 
 [官方下载](http://sparanoid.com/lab/7z/)
-
-<!--
-## acrobat pro ##
-
-### acrobat pro x ###
-
-[下载地址](http://www.pc6.com/softview/SoftView_59267.html)
-
-[破解补丁](bin/acrobat_x_amtlib.7z)
-
-### acrobat pro xi ###
-
-[下载地址](http://rj.baidu.com/soft/detail/27081.html?ald)
-
-[破解补丁](bin/acrobat_xi_amtlib.7z)
-
-### acrobat pro dc ###
-
-[下载地址](http://www.sdbeta.com/xiazai/2015/0409/30465.html)
-
-[破解补丁](bin/acrobat_dc_amtlib.zip)
--->
 
 ## Android Studio
 
@@ -77,6 +52,12 @@ Github出品的代码编辑器，原生支持Markdown。
 
 [官方下载](http://www.codeblocks.org/downloads/26)
 
+## Chrome
+
+一款快速、简单且安全的浏览器，谷歌出品。
+
+[官方下载](http://www.google.cn/chrome/browser/desktop/index.html)
+
 ## Feeddemon
 
 RSS聚合新闻阅读器。由于正规的Blog站点都提供RSS文件,因而您可以方便的在桌面快速浏览RSS的世界而不需要访问上百个网站。新版本无需注册即可永久免费使用。
@@ -95,7 +76,19 @@ RSS聚合新闻阅读器。由于正规的Blog站点都提供RSS文件,因而您
 
 [官方下载](https://filezilla-project.org/download.php?type=client)
 
-## git-scm
+## Firefox
+
+Mozilla出品的开源浏览器，支持多种操作系统，并具有很强的扩展性。
+
+[官方下载](http://www.firefox.com.cn/download/)
+
+## Gimp
+
+GNU出品的跨平台图像处理工具，号称“Linux下的Photoshop”。
+
+[官方下载](http://www.gimp.org/downloads/)
+
+## Git-scm
 
 免费、开源的分布式版本控制系统。
 
@@ -150,40 +143,6 @@ mysql官方出品的图形化管理工具。
 与Matlab语法兼容科学计算语言和环境。
 
 [官方下载](http://www.gnu.org/software/octave/download.html)
-
-<!--
-## photoshop ##
-
-设计必备软件，专业图形设计与处理。
-
-**软件均已注册激活，安装目录下的`amtlib.dll`是破解补丁，覆盖到任何相同版本未注册的PS上即可为其注册。**
-
-[cs4~cc破解补丁](bin/photoshop_cs4~cc_amtlib_x86_x64.7z)
-
-### cs2 精简版 ###
-
-[下载地址](http://www.greenxf.com/soft/15565.html)
-
-### cs3 精简版 ###
-
-[下载地址](http://www.downxia.com/downinfo/3560.html)
-
-### cs4 精简版 ###
-
-[下载地址](http://xiazai.zol.com.cn/detail/41/406130.shtml)
-
-### cs5 精简版 ##
-
-[下载地址](http://www.7edown.com/soft/down/soft_643.html)
-
-### cs6 精简版 ###
-
-[下载地址](http://www.xp510.com/xiazai/Graphics/ImageProces/16483.html)
-
-### cc 精简版 ###
-
-[下载地址](http://www.xp510.com/xiazai/Graphics/ImageProces/22428.html)
--->
 
 ## PHP
 
@@ -259,9 +218,15 @@ windows上最好用的IDE，用于开发C/C++、C#、VB以及其它。
 
 [官方下载](http://download.microsoft.com/download/7/1/B/71BA74D8-B9A0-4E6C-9159-A8335D54437E/vs2013.4_ce_enu.iso)
 
+## VSCode
+
+微软出品的开源、跨平台的代码编辑工具。
+
+[官方下载](https://code.visualstudio.com)
+
 ## Vmware Player
 
-虚拟机软件，支持Windows 8.1、平板电脑传感器和即将过期的虚拟机。
+Vmware出品的免费虚拟机软件。
 
 [官方下载](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
 
