@@ -106,6 +106,12 @@ Java 语言的软件开发工具包。包含java编译器、虚拟机、类库�
 
 [官方下载](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
+## Krita
+
+自由开源的图像处理软件，以GNU协议发布。
+
+[官方下载](https://krita.org/en/download/krita-desktop/)
+
 ## MySQL
 
 最流行的关系型数据库管理系统，由瑞典MySQL AB公司开发，目前属于Oracle公司。
